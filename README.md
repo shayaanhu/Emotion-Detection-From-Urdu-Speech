@@ -26,4 +26,5 @@ We experimented with six different models for emotion classification:
 - High-accuracy emotion classification for Urdu speech
 - Optimized transformer-based architecture
 - Trained on a large and diverse dataset
-- Feel free to contribute or explore the code! 😊
+
+Feel free to contribute or explore the code! 😊
