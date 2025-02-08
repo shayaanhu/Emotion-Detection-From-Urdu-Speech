@@ -7,6 +7,16 @@ By leveraging a large-scale dataset and state-of-the-art transformer models, we 
 - We created a custom dataset by combining audio from three different datasets, with the largest being the SEMOUR+ dataset. This unique dataset set our work apart from previous research in the field.
 - You can access it on kaggle using this link: https://www.kaggle.com/datasets/ikhlas25/urdu-8emotions-24actors-dataset
 
+🧠 Models Tested
+We experimented with six different models for emotion classification:
+
+- SVM (Support Vector Machine)
+- CNN (Convolutional Neural Network)
+- ResNet50
+- HuBERT
+- KNN (K-Nearest Neighbors)
+- Wav2Vec2.0 (Best Performing Model: Achieved 94.5% Accuracy)
+
 🔧 Technologies Used
 - Python
 - NumPy & Pandas
